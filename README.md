@@ -12,4 +12,5 @@ For different operation symbols, a pointer to the input text. Special characters
 The parser describes the necessary rules for describing the grammar we need.
 
 _simple usage_
+
 ![image](https://github.com/nekitalek/yacc-bison-lexer/assets/59126116/ab59c6e2-df97-4ba5-8ff7-a920825a59ec)
