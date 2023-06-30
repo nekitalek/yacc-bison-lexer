@@ -10,5 +10,6 @@ Thus, under conditions, loops, output and return functions, the corresponding to
 When one or more digits are encountered, the NUMBER token will be returned. When a letter or several letters meet, the VAR token. 
 For different operation symbols, a pointer to the input text. Special characters are ignored. 
 The parser describes the necessary rules for describing the grammar we need.
+
 _simple usage_
 ![image](https://github.com/nekitalek/yacc-bison-lexer/assets/59126116/ab59c6e2-df97-4ba5-8ff7-a920825a59ec)
